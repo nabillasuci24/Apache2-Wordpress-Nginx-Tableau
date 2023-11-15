@@ -61,6 +61,8 @@ contoh : cd nabilla
 </html>
 ```
 
+![image](https://github.com/nabillasuci24/Apache2-Wordpress-Nginx-Tableau/assets/150004555/2c64def2-f531-4365-8a9f-d87b36ee11a4)
+
 ## 9. Output
 Berikut ini adalah tampilan website dari proses yang telah dilakukan sebelumnya.
 *192.145.1.85* adalah IP address, */nabilla/* adalah nama direktori yang ,enyimpan isi dari tampilan dibawah ini.
