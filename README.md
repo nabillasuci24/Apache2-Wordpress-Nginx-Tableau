@@ -45,6 +45,7 @@ contoh : cd nabilla
 
 ### 8.5 Edit Direktori HTML dengan Teks Editor "nano"
     nano index.html
+```sh
 <html>
 <head>
   
@@ -58,6 +59,7 @@ contoh : cd nabilla
   
 </body>
 </html>
+```
 
 ## 9. Output
 Berikut ini adalah tampilan website dari proses yang telah dilakukan sebelumnya.
