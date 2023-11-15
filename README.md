@@ -58,12 +58,11 @@ contoh : cd nabilla
   
 </body>
 </html>
-contoh program :
-![image](https://github.com/nabillasuci24/Apache2-Wordpress-Nginx-Tableau/assets/150004555/b39f3903-ca63-4a70-ba26-79ccc7e0fe9c)
 
 ## 9. Output
 Berikut ini adalah tampilan website dari proses yang telah dilakukan sebelumnya.
 *192.145.1.85* adalah IP address, */nabilla/* adalah nama direktori yang ,enyimpan isi dari tampilan dibawah ini.
+
 ![image](https://github.com/nabillasuci24/Apache2-Wordpress-Nginx-Tableau/assets/150004555/d2434900-44af-4b44-b5dd-61ec5a66330f)
 
 ## Cara Remote
