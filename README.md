@@ -194,6 +194,7 @@ chown -R www-data:www-data /var/www/html/wordpress/wp-content/uploads/
     'ip/wordpress'
 Isi formulir seperti saat membuat database WordPress di database MariaDB
 ![image](https://github.com/nabillasuci24/Apache2-Wordpress-Nginx-Tableau/assets/150004555/0293c7a4-fd6d-42fd-b29a-72f4d0f7cd9d)
+
 klik *run the installation* <br>
 Kemudian, isi detail tambahan yang diperlukan seperti judul situs, Nama Pengguna, dan 
 Kata Sandi lalu klik install wordpress untuk login ke akun wordpress yang sudah 
