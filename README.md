@@ -24,7 +24,7 @@ Membahas dan menjelaskan step by step menginstall apache2, Nginx dan wordpress p
 
 ## 7. Copy IP Address pada Browser
 Jika berhasil, akan ada tampilan seperti di bwah ini.
-![image]([image](https://github.com/nabillasuci24/Apache2-Wordpress-Nginx-Tableau/assets/150004555/994973e9-e3b3-402f-a85a-a0d76a737b5c)
+![image](https://github.com/nabillasuci24/Apache2-Wordpress-Nginx-Tableau/assets/150004555/994973e9-e3b3-402f-a85a-a0d76a737b5c)
 
 ## 8. Membuat Website <br>
 ### 8.1 Membuat Website Melalui Direktori /var/www/html
